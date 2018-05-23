@@ -9,3 +9,15 @@ C:\Users\ViniO\source\repos\Mk.SysControl\Mk.SysControl\obj\Debug\Mk.SysControl.
 C:\Users\ViniO\source\repos\Mk.SysControl\Mk.SysControl\obj\Debug\Mk.SysControl.exe
 C:\Users\ViniO\source\repos\Mk.SysControl\Mk.SysControl\obj\Debug\Mk.SysControl.pdb
 C:\Users\ViniO\source\repos\Mk.SysControl\Mk.SysControl\obj\Debug\Mk.SysControl.Main.resources
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\bin\Debug\Mk.SysControl.exe.config
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\bin\Debug\Mk.SysControl.exe
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\bin\Debug\Mk.SysControl.pdb
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.csprojResolveAssemblyReference.cache
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.CustomTextBox.resources
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.Login.resources
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.Main.resources
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.Properties.Resources.resources
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.csproj.GenerateResource.cache
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.csproj.CoreCompileInputs.cache
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.exe
+C:\Users\ViniO\Documents\GitHub\ProjetoSoft-III\Mk.SysControl\obj\Debug\Mk.SysControl.pdb
